@@ -1,0 +1,17 @@
+.container {
+  width: 50%;
+  margin: auto;
+}
+
+.list-container {
+  margin-top: 1.5em;
+}
+
+li {
+  padding: 0.7em;
+}
+
+
+.mat-list{
+    color: black !important;
+}
